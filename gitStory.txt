@@ -3,3 +3,7 @@ once upon a time there was a man named bill.
 Bill was hungry, so he went to go get some food at Panda Express.
 
 Panda Express was across the street, so Bill looked both ways
+
+No cars were coming, so Bill crossed the street. 
+
+Unfortunately, Bill got hit by a car traveling at 100mph!
